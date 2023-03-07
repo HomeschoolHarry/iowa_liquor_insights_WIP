@@ -1,4 +1,4 @@
-# Building a data piline and insights from the 
+# Iowa Sate Liquor Sales: Data Pipeline and Insights
 
 ## Project Goals: 
 This presentation is designed to provide insights and analysis of the Iowa State Liquor market from 2012 to 2022.
